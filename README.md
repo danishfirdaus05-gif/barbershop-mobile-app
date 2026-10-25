@@ -1,4 +1,3 @@
-[project-README-template.md](https://github.com/user-attachments/files/33507546/project-README-template.md)
 # BarberBook
 
 A mobile app that helps customers and barbers manage haircut appointments by showing barber availability and saving hairstyle preferences.
