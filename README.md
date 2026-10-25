@@ -14,7 +14,7 @@ Customers who get haircuts at barbershops cannot tell in advance when their pref
 
 ## Status
 
-Planning (CSC649, Week 2)
+Requirements and documentation in progress (CSC649 Assignment 1)
 
 ## Author
 
